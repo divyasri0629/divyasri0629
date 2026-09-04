@@ -1,0 +1,472 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 441.6 504.0" width="441.6" height="504.0">
+  <style>
+    .ascii-text {
+      font-family: 'Cascadia Code', 'Fira Code', Consolas, monospace;
+      font-size: 8px;
+      fill: #c9d1d9;
+      white-space: pre;
+    }
+    .wipe {
+      animation: wipeIn 0.5s steps(30) forwards;
+    }
+    @keyframes wipeIn {
+      to { width: 441.6px; }
+    }
+    .cursor {
+      fill: #39d353;
+      opacity: 0;
+      animation: cursorRide 0.5s steps(30) forwards, cursorFade 0.15s ease-in forwards;
+      animation-fill-mode: forwards;
+    }
+    @keyframes cursorRide {
+      from { transform: translateX(0); opacity: 1; }
+      to   { transform: translateX(441.6px); opacity: 1; }
+    }
+    @keyframes cursorFade {
+      to { opacity: 0; }
+    }
+  </style>
+  <rect x="0" y="0" width="441.6" height="504.0" fill="#0d1117" />
+  
+  <g class="ascii-row" style="animation-delay:0.000s">
+    <clipPath id="clip-row-0">
+      <rect x="0" y="0.0" width="0" height="8.0" class="wipe" style="animation-delay:0.000s" />
+    </clipPath>
+    <text x="0" y="6.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-0)">                                                                                            </text>
+    <rect class="cursor" y="0.0" width="4.8" height="8.0" style="animation-delay:0.000s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:0.045s">
+    <clipPath id="clip-row-1">
+      <rect x="0" y="8.0" width="0" height="8.0" class="wipe" style="animation-delay:0.045s" />
+    </clipPath>
+    <text x="0" y="14.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-1)">                                                                                            </text>
+    <rect class="cursor" y="8.0" width="4.8" height="8.0" style="animation-delay:0.045s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:0.090s">
+    <clipPath id="clip-row-2">
+      <rect x="0" y="16.0" width="0" height="8.0" class="wipe" style="animation-delay:0.090s" />
+    </clipPath>
+    <text x="0" y="22.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-2)">                                                         ...                                </text>
+    <rect class="cursor" y="16.0" width="4.8" height="8.0" style="animation-delay:0.090s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:0.135s">
+    <clipPath id="clip-row-3">
+      <rect x="0" y="24.0" width="0" height="8.0" class="wipe" style="animation-delay:0.135s" />
+    </clipPath>
+    <text x="0" y="30.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-3)">                                                                              ..            </text>
+    <rect class="cursor" y="24.0" width="4.8" height="8.0" style="animation-delay:0.135s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:0.180s">
+    <clipPath id="clip-row-4">
+      <rect x="0" y="32.0" width="0" height="8.0" class="wipe" style="animation-delay:0.180s" />
+    </clipPath>
+    <text x="0" y="38.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-4)">                   .-==:.                                                                   </text>
+    <rect class="cursor" y="32.0" width="4.8" height="8.0" style="animation-delay:0.180s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:0.225s">
+    <clipPath id="clip-row-5">
+      <rect x="0" y="40.0" width="0" height="8.0" class="wipe" style="animation-delay:0.225s" />
+    </clipPath>
+    <text x="0" y="46.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-5)">                 .-***c*--`:=+++-`                                                          </text>
+    <rect class="cursor" y="40.0" width="4.8" height="8.0" style="animation-delay:0.225s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:0.270s">
+    <clipPath id="clip-row-6">
+      <rect x="0" y="48.0" width="0" height="8.0" class="wipe" style="animation-delay:0.270s" />
+    </clipPath>
+    <text x="0" y="54.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-6)">                 :**+cscc*++++=+++`                                                         </text>
+    <rect class="cursor" y="48.0" width="4.8" height="8.0" style="animation-delay:0.270s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:0.315s">
+    <clipPath id="clip-row-7">
+      <rect x="0" y="56.0" width="0" height="8.0" class="wipe" style="animation-delay:0.315s" />
+    </clipPath>
+    <text x="0" y="62.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-7)">                 `:::=+==+=+*+=:`=-                                                         </text>
+    <rect class="cursor" y="56.0" width="4.8" height="8.0" style="animation-delay:0.315s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:0.360s">
+    <clipPath id="clip-row-8">
+      <rect x="0" y="64.0" width="0" height="8.0" class="wipe" style="animation-delay:0.360s" />
+    </clipPath>
+    <text x="0" y="70.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-8)">                 ..``::==+-+*`.`-+`                                                         </text>
+    <rect class="cursor" y="64.0" width="4.8" height="8.0" style="animation-delay:0.360s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:0.405s">
+    <clipPath id="clip-row-9">
+      <rect x="0" y="72.0" width="0" height="8.0" class="wipe" style="animation-delay:0.405s" />
+    </clipPath>
+    <text x="0" y="78.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-9)">                  .   ....:+===++:                                                          </text>
+    <rect class="cursor" y="72.0" width="4.8" height="8.0" style="animation-delay:0.405s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:0.450s">
+    <clipPath id="clip-row-10">
+      <rect x="0" y="80.0" width="0" height="8.0" class="wipe" style="animation-delay:0.450s" />
+    </clipPath>
+    <text x="0" y="86.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-10)">              ...     ...:=+**+++=::`....                                                   </text>
+    <rect class="cursor" y="80.0" width="4.8" height="8.0" style="animation-delay:0.450s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:0.495s">
+    <clipPath id="clip-row-11">
+      <rect x="0" y="88.0" width="0" height="8.0" class="wipe" style="animation-delay:0.495s" />
+    </clipPath>
+    <text x="0" y="94.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-11)">             ..        .--:````-=*sc=:::::::.                                               </text>
+    <rect class="cursor" y="88.0" width="4.8" height="8.0" style="animation-delay:0.495s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:0.540s">
+    <clipPath id="clip-row-12">
+      <rect x="0" y="96.0" width="0" height="8.0" class="wipe" style="animation-delay:0.540s" />
+    </clipPath>
+    <text x="0" y="102.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-12)">                      -ccc****+**c#cc*+++=-:                                                </text>
+    <rect class="cursor" y="96.0" width="4.8" height="8.0" style="animation-delay:0.540s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:0.585s">
+    <clipPath id="clip-row-13">
+      <rect x="0" y="104.0" width="0" height="8.0" class="wipe" style="animation-delay:0.585s" />
+    </clipPath>
+    <text x="0" y="110.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-13)">                    `*#s*########ssss#ss#sc+-                                               </text>
+    <rect class="cursor" y="104.0" width="4.8" height="8.0" style="animation-delay:0.585s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:0.630s">
+    <clipPath id="clip-row-14">
+      <rect x="0" y="112.0" width="0" height="8.0" class="wipe" style="animation-delay:0.630s" />
+    </clipPath>
+    <text x="0" y="118.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-14)">                   `c###s%%#####c**cc*+*s#sss=                                              </text>
+    <rect class="cursor" y="112.0" width="4.8" height="8.0" style="animation-delay:0.630s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:0.675s">
+    <clipPath id="clip-row-15">
+      <rect x="0" y="120.0" width="0" height="8.0" class="wipe" style="animation-delay:0.675s" />
+    </clipPath>
+    <text x="0" y="126.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-15)">                  .c#s%s###%##sc*=--:`.`-*ss#*.                                             </text>
+    <rect class="cursor" y="120.0" width="4.8" height="8.0" style="animation-delay:0.675s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:0.720s">
+    <clipPath id="clip-row-16">
+      <rect x="0" y="128.0" width="0" height="8.0" class="wipe" style="animation-delay:0.720s" />
+    </clipPath>
+    <text x="0" y="134.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-16)">                  =##%#s%######sc=:``````-cs#*`                                             </text>
+    <rect class="cursor" y="128.0" width="4.8" height="8.0" style="animation-delay:0.720s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:0.765s">
+    <clipPath id="clip-row-17">
+      <rect x="0" y="136.0" width="0" height="8.0" class="wipe" style="animation-delay:0.765s" />
+    </clipPath>
+    <text x="0" y="142.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-17)">                  =#%%####%###ss*-:``.````=s#-`                                             </text>
+    <rect class="cursor" y="136.0" width="4.8" height="8.0" style="animation-delay:0.765s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:0.810s">
+    <clipPath id="clip-row-18">
+      <rect x="0" y="144.0" width="0" height="8.0" class="wipe" style="animation-delay:0.810s" />
+    </clipPath>
+    <text x="0" y="150.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-18)">                 .=%%%%#%%#sc*+=-:`````````=s=`                                             </text>
+    <rect class="cursor" y="144.0" width="4.8" height="8.0" style="animation-delay:0.810s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:0.855s">
+    <clipPath id="clip-row-19">
+      <rect x="0" y="152.0" width="0" height="8.0" class="wipe" style="animation-delay:0.855s" />
+    </clipPath>
+    <text x="0" y="158.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-19)">                 `c%#%c+ccc+++++****+=-=*cc*c+-                                             </text>
+    <rect class="cursor" y="152.0" width="4.8" height="8.0" style="animation-delay:0.855s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:0.900s">
+    <clipPath id="clip-row-20">
+      <rect x="0" y="160.0" width="0" height="8.0" class="wipe" style="animation-delay:0.900s" />
+    </clipPath>
+    <text x="0" y="166.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-20)">                 :c##%s--:*+***csssc*++*s#sc**+`                                            </text>
+    <rect class="cursor" y="160.0" width="4.8" height="8.0" style="animation-delay:0.900s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:0.945s">
+    <clipPath id="clip-row-21">
+      <rect x="0" y="168.0" width="0" height="8.0" class="wipe" style="animation-delay:0.945s" />
+    </clipPath>
+    <text x="0" y="174.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-21)">                 `*#%%s---=+**css+ss*=:c##*cc*+=.                                           </text>
+    <rect class="cursor" y="168.0" width="4.8" height="8.0" style="animation-delay:0.945s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:0.990s">
+    <clipPath id="clip-row-22">
+      <rect x="0" y="176.0" width="0" height="8.0" class="wipe" style="animation-delay:0.990s" />
+    </clipPath>
+    <text x="0" y="182.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-22)">                 `*ssss````-**ccccc*+: `***-+#+*:                                           </text>
+    <rect class="cursor" y="176.0" width="4.8" height="8.0" style="animation-delay:0.990s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:1.035s">
+    <clipPath id="clip-row-23">
+      <rect x="0" y="184.0" width="0" height="8.0" class="wipe" style="animation-delay:1.035s" />
+    </clipPath>
+    <text x="0" y="190.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-23)">                 .+c**+:````=`::--:--`` `:`.`sc+-                                           </text>
+    <rect class="cursor" y="184.0" width="4.8" height="8.0" style="animation-delay:1.035s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:1.080s">
+    <clipPath id="clip-row-24">
+      <rect x="0" y="192.0" width="0" height="8.0" class="wipe" style="animation-delay:1.080s" />
+    </clipPath>
+    <text x="0" y="198.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-24)">                  `*c*+::`: `.   .:=``...:`` =#+-`                                          </text>
+    <rect class="cursor" y="192.0" width="4.8" height="8.0" style="animation-delay:1.080s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:1.125s">
+    <clipPath id="clip-row-25">
+      <rect x="0" y="200.0" width="0" height="8.0" class="wipe" style="animation-delay:1.125s" />
+    </clipPath>
+    <text x="0" y="206.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-25)">                 .-s#c+--`-: :```:-==+===:==-*#c=:.                                         </text>
+    <rect class="cursor" y="200.0" width="4.8" height="8.0" style="animation-delay:1.125s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:1.170s">
+    <clipPath id="clip-row-26">
+      <rect x="0" y="208.0" width="0" height="8.0" class="wipe" style="animation-delay:1.170s" />
+    </clipPath>
+    <text x="0" y="214.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-26)">                -*ss##s-::`=. :==+==+**+=-==+##s+`..                                        </text>
+    <rect class="cursor" y="208.0" width="4.8" height="8.0" style="animation-delay:1.170s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:1.215s">
+    <clipPath id="clip-row-27">
+      <rect x="0" y="216.0" width="0" height="8.0" class="wipe" style="animation-delay:1.215s" />
+    </clipPath>
+    <text x="0" y="222.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-27)">               :ssss##%+`-.::  :**++-=---+=-####*=:`.                                       </text>
+    <rect class="cursor" y="216.0" width="4.8" height="8.0" style="animation-delay:1.215s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:1.260s">
+    <clipPath id="clip-row-28">
+      <rect x="0" y="224.0" width="0" height="8.0" class="wipe" style="animation-delay:1.260s" />
+    </clipPath>
+    <text x="0" y="230.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-28)">              .-csss##%+`--:-`. :=------=-:c%ss#****-.                                      </text>
+    <rect class="cursor" y="224.0" width="4.8" height="8.0" style="animation-delay:1.260s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:1.305s">
+    <clipPath id="clip-row-29">
+      <rect x="0" y="232.0" width="0" height="8.0" class="wipe" style="animation-delay:1.305s" />
+    </clipPath>
+    <text x="0" y="238.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-29)">              `+cssc##%%c==--:`. `=---==:`*%ssssc**+-..                                     </text>
+    <rect class="cursor" y="232.0" width="4.8" height="8.0" style="animation-delay:1.305s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:1.350s">
+    <clipPath id="clip-row-30">
+      <rect x="0" y="240.0" width="0" height="8.0" class="wipe" style="animation-delay:1.350s" />
+    </clipPath>
+    <text x="0" y="246.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-30)">              :cs#sc##%%@#+-=-:`. .-:````=%#ss#sc*++-..  .                                  </text>
+    <rect class="cursor" y="240.0" width="4.8" height="8.0" style="animation-delay:1.350s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:1.395s">
+    <clipPath id="clip-row-31">
+      <rect x="0" y="248.0" width="0" height="8.0" class="wipe" style="animation-delay:1.395s" />
+    </clipPath>
+    <text x="0" y="254.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-31)">             .=ccsssss%%%%%c==-`.. `+=+*c%%#sssscc*++--:``.                                 </text>
+    <rect class="cursor" y="248.0" width="4.8" height="8.0" style="animation-delay:1.395s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:1.440s">
+    <clipPath id="clip-row-32">
+      <rect x="0" y="256.0" width="0" height="8.0" class="wipe" style="animation-delay:1.440s" />
+    </clipPath>
+    <text x="0" y="262.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-32)">            .:*ccss####%%%%@s=-`. .:*cs%@%%##sccccc+**c+-``-:                               </text>
+    <rect class="cursor" y="256.0" width="4.8" height="8.0" style="animation-delay:1.440s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:1.485s">
+    <clipPath id="clip-row-33">
+      <rect x="0" y="264.0" width="0" height="8.0" class="wipe" style="animation-delay:1.485s" />
+    </clipPath>
+    <text x="0" y="270.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-33)">           ..:*ccss#s##%%%%%@+`.. .=+*#%%#sssscs#cc+*cc*+=-===`                             </text>
+    <rect class="cursor" y="264.0" width="4.8" height="8.0" style="animation-delay:1.485s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:1.530s">
+    <clipPath id="clip-row-34">
+      <rect x="0" y="272.0" width="0" height="8.0" class="wipe" style="animation-delay:1.530s" />
+    </clipPath>
+    <text x="0" y="278.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-34)">           .`=ccsssssss%%%%%%=`. .:++c####sccsssc***+=-+c#c+.`*`                            </text>
+    <rect class="cursor" y="272.0" width="4.8" height="8.0" style="animation-delay:1.530s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:1.575s">
+    <clipPath id="clip-row-35">
+      <rect x="0" y="280.0" width="0" height="8.0" class="wipe" style="animation-delay:1.575s" />
+    </clipPath>
+    <text x="0" y="286.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-35)">          .`-+s#ssc*c###%%%@+`.  `=+*sssccccscs**ss**=+*++c*-=+:`                           </text>
+    <rect class="cursor" y="280.0" width="4.8" height="8.0" style="animation-delay:1.575s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:1.620s">
+    <clipPath id="clip-row-36">
+      <rect x="0" y="288.0" width="0" height="8.0" class="wipe" style="animation-delay:1.620s" />
+    </clipPath>
+    <text x="0" y="294.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-36)">         .`:-=css##ss%%%#%%+``. .:==+cscsscsssc*s#%+*+++-+c*ccc+:.                          </text>
+    <rect class="cursor" y="288.0" width="4.8" height="8.0" style="animation-delay:1.620s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:1.665s">
+    <clipPath id="clip-row-37">
+      <rect x="0" y="296.0" width="0" height="8.0" class="wipe" style="animation-delay:1.665s" />
+    </clipPath>
+    <text x="0" y="302.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-37)">         .`:-+sss#%###%%%%+``. .`----+**s#s#scc*##s+*++-`+=.=sc*+-.                         </text>
+    <rect class="cursor" y="296.0" width="4.8" height="8.0" style="animation-delay:1.665s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:1.710s">
+    <clipPath id="clip-row-38">
+      <rect x="0" y="304.0" width="0" height="8.0" class="wipe" style="animation-delay:1.710s" />
+    </clipPath>
+    <text x="0" y="310.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-38)">         .:=*cc#ssss##s#%*... ..:::--=*cc###c*cs##c++=*+*+=`=s:-cc-............             </text>
+    <rect class="cursor" y="304.0" width="4.8" height="8.0" style="animation-delay:1.710s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:1.755s">
+    <clipPath id="clip-row-39">
+      <rect x="0" y="312.0" width="0" height="8.0" class="wipe" style="animation-delay:1.755s" />
+    </clipPath>
+    <text x="0" y="318.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-39)">         .=*cc#s++c####c=`-==`.`*#%s=+*ccs#ssscsscs**+c+++c==s+.:s+-````...```````..        </text>
+    <rect class="cursor" y="312.0" width="4.8" height="8.0" style="animation-delay:1.755s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:1.800s">
+    <clipPath id="clip-row-40">
+      <rect x="0" y="320.0" width="0" height="8.0" class="wipe" style="animation-delay:1.800s" />
+    </clipPath>
+    <text x="0" y="326.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-40)">         .:++**sscc#ss%+---=++`++=+#sccc*cc#sc*cccssc+s+=c*cc#c:c*.--:::-------:::``.       </text>
+    <rect class="cursor" y="320.0" width="4.8" height="8.0" style="animation-delay:1.800s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:1.845s">
+    <clipPath id="clip-row-41">
+      <rect x="0" y="328.0" width="0" height="8.0" class="wipe" style="animation-delay:1.845s" />
+    </clipPath>
+    <text x="0" y="334.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-41)">         .:+*=+s#s#ssc=``:.=+=-s:``=s##s*cssccc*cccc*+*==sc-csc##c--+--*****=-=-:```.       </text>
+    <rect class="cursor" y="328.0" width="4.8" height="8.0" style="animation-delay:1.845s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:1.890s">
+    <clipPath id="clip-row-42">
+      <rect x="0" y="336.0" width="0" height="8.0" class="wipe" style="animation-delay:1.890s" />
+    </clipPath>
+    <text x="0" y="342.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-42)">         .-*s*ss--+-:=-.`===-` ++-+ssccs#sccssc#scsc=****ss.c=`c##*+c=+**++++====`...       </text>
+    <rect class="cursor" y="336.0" width="4.8" height="8.0" style="animation-delay:1.890s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:1.935s">
+    <clipPath id="clip-row-43">
+      <rect x="0" y="344.0" width="0" height="8.0" class="wipe" style="animation-delay:1.935s" />
+    </clipPath>
+    <text x="0" y="350.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-43)">     ....:=-+c+c+-==++===++=`:`::*ssc=+c#cccsc##s**c*c*-=+#ss:`*=+##s*-*+***++++=.   .      </text>
+    <rect class="cursor" y="344.0" width="4.8" height="8.0" style="animation-delay:1.935s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:1.980s">
+    <clipPath id="clip-row-44">
+      <rect x="0" y="352.0" width="0" height="8.0" class="wipe" style="animation-delay:1.980s" />
+    </clipPath>
+    <text x="0" y="358.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-44)">`````````:-=-:-=-`=+=..:++**++*+`s#s+-=+sccscs#s*+-cs*c-`-c%%s-*+:=#sc**+++==+++=.          </text>
+    <rect class="cursor" y="352.0" width="4.8" height="8.0" style="animation-delay:1.980s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:2.025s">
+    <clipPath id="clip-row-45">
+      <rect x="0" y="360.0" width="0" height="8.0" class="wipe" style="animation-delay:2.025s" />
+    </clipPath>
+    <text x="0" y="366.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-45)">........``:*+---*++::```++--==+*+-:*scss+=ccs#sc**csc*c+-=+*#cs#==cc-:+ss*++++++=`          </text>
+    <rect class="cursor" y="360.0" width="4.8" height="8.0" style="animation-delay:2.025s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:2.070s">
+    <clipPath id="clip-row-46">
+      <rect x="0" y="368.0" width="0" height="8.0" class="wipe" style="animation-delay:2.070s" />
+    </clipPath>
+    <text x="0" y="374.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-46)">        .`-+**+***+=:*++*-.``-*=++-=sssc**sss*cccs##c+=*ccc:+**#%%%s=-+scc++++*+:.......... </text>
+    <rect class="cursor" y="368.0" width="4.8" height="8.0" style="animation-delay:2.070s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:2.115s">
+    <clipPath id="clip-row-47">
+      <rect x="0" y="376.0" width="0" height="8.0" class="wipe" style="animation-delay:2.115s" />
+    </clipPath>
+    <text x="0" y="382.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-47)">         .---:+c*ccc*****+.:+*+``=+cc*+csscsscccc%#cc=-=s#s:c#-=%%#%s+cs==++**+:........... </text>
+    <rect class="cursor" y="376.0" width="4.8" height="8.0" style="animation-delay:2.115s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:2.160s">
+    <clipPath id="clip-row-48">
+      <rect x="0" y="384.0" width="0" height="8.0" class="wipe" style="animation-delay:2.160s" />
+    </clipPath>
+    <text x="0" y="390.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-48)">        .:*==-+c+:-=:+**++**c=`:.-sss=-+ssc%#s*+s%scc***s+*#s##+%#+c%%##*:::`..             </text>
+    <rect class="cursor" y="384.0" width="4.8" height="8.0" style="animation-delay:2.160s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:2.205s">
+    <clipPath id="clip-row-49">
+      <rect x="0" y="392.0" width="0" height="8.0" class="wipe" style="animation-delay:2.205s" />
+    </clipPath>
+    <text x="0" y="398.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-49)">       `:=cc*+c*```=:*c+``+***-+++s%s-:-*#c#sssc#*++s###+`-###%c%s+-=###sc*`                </text>
+    <rect class="cursor" y="392.0" width="4.8" height="8.0" style="animation-delay:2.205s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:2.250s">
+    <clipPath id="clip-row-50">
+      <rect x="0" y="400.0" width="0" height="8.0" class="wipe" style="animation-delay:2.250s" />
+    </clipPath>
+    <text x="0" y="406.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-50)">`.   .`==ccssssc=:-ccc--`.-*++++*c*+sc*cs*=+ccs#c+==*###s-ccc%c%%%*+*%*=+##=.               </text>
+    <rect class="cursor" y="400.0" width="4.8" height="8.0" style="animation-delay:2.250s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:2.295s">
+    <clipPath id="clip-row-51">
+      <rect x="0" y="408.0" width="0" height="8.0" class="wipe" style="animation-delay:2.295s" />
+    </clipPath>
+    <text x="0" y="414.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-51)">``.  `=++:-=+#s*ccccc+-:+=++```=**-`+%#ss*=+ccssc*++cs=*#*s++#*#sss%%s===ss*c:              </text>
+    <rect class="cursor" y="408.0" width="4.8" height="8.0" style="animation-delay:2.295s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:2.340s">
+    <clipPath id="clip-row-52">
+      <rect x="0" y="416.0" width="0" height="8.0" class="wipe" style="animation-delay:2.340s" />
+    </clipPath>
+    <text x="0" y="422.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-52)">.....-+*-`=-cs-`-cccccc****+.:+ss*-=c#scss+c*c*+ccscsc++s%%c=s*#:-+*#ss++cc=c=              </text>
+    <rect class="cursor" y="416.0" width="4.8" height="8.0" style="animation-delay:2.340s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:2.385s">
+    <clipPath id="clip-row-53">
+      <rect x="0" y="424.0" width="0" height="8.0" class="wipe" style="animation-delay:2.385s" />
+    </clipPath>
+    <text x="0" y="430.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-53)">  ..`-=***ss*+:``*sc==+-+*cc*#cc%#*+#s*+s##*cs*+=cc=`:-`-s##sc%%#sc#@%%%%%#=-==.            </text>
+    <rect class="cursor" y="424.0" width="4.8" height="8.0" style="animation-delay:2.385s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:2.430s">
+    <clipPath id="clip-row-54">
+      <rect x="0" y="432.0" width="0" height="8.0" class="wipe" style="animation-delay:2.430s" />
+    </clipPath>
+    <text x="0" y="438.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-54)">  ..`-=+**##*:+*+sc:``-`*%s#%%#+*%%%##*+=s#ss#*=+=` ````:`:cc+s@@#%#*+cccc*ss#*:            </text>
+    <rect class="cursor" y="432.0" width="4.8" height="8.0" style="animation-delay:2.430s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:2.475s">
+    <clipPath id="clip-row-55">
+      <rect x="0" y="440.0" width="0" height="8.0" class="wipe" style="animation-delay:2.475s" />
+    </clipPath>
+    <text x="0" y="446.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-55)">      ..`:*##s###ss=`:s*s#+%%@%**%@%%#*++ccccssc=. :-::-:..`-==ccccc+`:cccc+s#c-`.          </text>
+    <rect class="cursor" y="440.0" width="4.8" height="8.0" style="animation-delay:2.475s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:2.520s">
+    <clipPath id="clip-row-56">
+      <rect x="0" y="448.0" width="0" height="8.0" class="wipe" style="animation-delay:2.520s" />
+    </clipPath>
+    <text x="0" y="454.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-56)">          .-+cc###c==*c##*+*+*csss*=+sssss+--=*=``:-:--:`:-`.`--::--+**sc=+=#%s+-:.         </text>
+    <rect class="cursor" y="448.0" width="4.8" height="8.0" style="animation-delay:2.520s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:2.565s">
+    <clipPath id="clip-row-57">
+      <rect x="0" y="456.0" width="0" height="8.0" class="wipe" style="animation-delay:2.565s" />
+    </clipPath>
+    <text x="0" y="462.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-57)">            .::=**=:+=:--`           .`::--:-------:----=-``:`:-:--=*c==c*+*s%%*+=-:        </text>
+    <rect class="cursor" y="456.0" width="4.8" height="8.0" style="animation-delay:2.565s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:2.610s">
+    <clipPath id="clip-row-58">
+      <rect x="0" y="464.0" width="0" height="8.0" class="wipe" style="animation-delay:2.610s" />
+    </clipPath>
+    <text x="0" y="470.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-58)">                                            :--+-==-=::=-`:=--::-==+cs-+sc##s#c=*c==-`      </text>
+    <rect class="cursor" y="464.0" width="4.8" height="8.0" style="animation-delay:2.610s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:2.655s">
+    <clipPath id="clip-row-59">
+      <rect x="0" y="472.0" width="0" height="8.0" class="wipe" style="animation-delay:2.655s" />
+    </clipPath>
+    <text x="0" y="478.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-59)">                                            `--===+++==++==*c*======++=**=cssss=csc*++-.    </text>
+    <rect class="cursor" y="472.0" width="4.8" height="8.0" style="animation-delay:2.655s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:2.700s">
+    <clipPath id="clip-row-60">
+      <rect x="0" y="480.0" width="0" height="8.0" class="wipe" style="animation-delay:2.700s" />
+    </clipPath>
+    <text x="0" y="486.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-60)">                                             ..````::-----------::::::::::`:::--=--+===-.   </text>
+    <rect class="cursor" y="480.0" width="4.8" height="8.0" style="animation-delay:2.700s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:2.745s">
+    <clipPath id="clip-row-61">
+      <rect x="0" y="488.0" width="0" height="8.0" class="wipe" style="animation-delay:2.745s" />
+    </clipPath>
+    <text x="0" y="494.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-61)">                                              ....```....  ....`````````````................</text>
+    <rect class="cursor" y="488.0" width="4.8" height="8.0" style="animation-delay:2.745s" />
+  </g>
+  <g class="ascii-row" style="animation-delay:2.790s">
+    <clipPath id="clip-row-62">
+      <rect x="0" y="496.0" width="0" height="8.0" class="wipe" style="animation-delay:2.790s" />
+    </clipPath>
+    <text x="0" y="502.0" xml:space="preserve" class="ascii-text" clip-path="url(#clip-row-62)">                                               .........    .......................````````.</text>
+    <rect class="cursor" y="496.0" width="4.8" height="8.0" style="animation-delay:2.790s" />
+  </g>
+</svg>

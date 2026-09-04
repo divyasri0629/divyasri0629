@@ -1,0 +1,10 @@
+# Intermediate output from prep_photo.py — regenerate locally when needed,
+# no need to commit it.
+source-prepped.png
+
+# Your original source photo(s) — keep these out of the public repo.
+source-photo.*
+
+.venv/
+__pycache__/
+*.pyc
